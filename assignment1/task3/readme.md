@@ -3,10 +3,9 @@
 ![captures_chrome-capture-2022-9-14 (4)](https://user-images.githubusercontent.com/73020771/195820779-ee0fafdc-a19a-4433-86fc-0f7f6958638d.png)
 
 ## Created an Issue in my github repository. ✔
-![captures_chrome-capture-2022-9-14 (2)](https://user-images.githubusercontent.com/73020771/195820697-7732ed45-f918-41fc-a465-81224aeeef9d.png)
+![captures_chrome-capture-2022-9-14 (2) (1)](https://user-images.githubusercontent.com/73020771/195822486-699f7305-c882-49a3-b2a5-a55169946885.png)
 
 ## Raised a pull request. ✔
-![captures_chrome-capture-2022-9-14 (3)](https://user-images.githubusercontent.com/73020771/195820669-e8436aa5-1126-4ccc-bc18-9f3265a74ae9.png)
 ![captures_chrome-capture-2022-9-14 (5) (1)](https://user-images.githubusercontent.com/73020771/195821974-98fcc4fd-3eab-417b-9a66-46b27d64274f.png)
 
 
@@ -20,6 +19,7 @@
 ![captures_chrome-capture-2022-9-14 (7)](https://user-images.githubusercontent.com/73020771/195820588-3c855e3c-0c0f-4e87-87e0-2d59b1f37415.png)
 
 ## Stash changes ✔
+![stash](https://user-images.githubusercontent.com/73020771/195822660-45a186a2-9de9-4062-a2a4-7073a6fe818c.png)
 
 ## Create a release your package ✔
 ![captures_chrome-capture-2022-9-14 (8)](https://user-images.githubusercontent.com/73020771/195820556-5ea20d0a-5397-4a7a-952c-c4b3f990aa9f.png)
