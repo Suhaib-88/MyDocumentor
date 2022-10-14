@@ -1,1 +1,1 @@
-commands updat
+commands updated
