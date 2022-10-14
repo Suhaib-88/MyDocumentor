@@ -13,17 +13,15 @@
 ![captures_chrome-capture-2022-9-14 (6)](https://user-images.githubusercontent.com/73020771/195820613-ac9ecafb-841a-4bd9-8e20-0775982addd8.png)
 
 ## Rejected A pull request. ✔
-![captures_chrome-capture-2022-9-14 (5)](https://user-images.githubusercontent.com/73020771/195820639-c5fdb5b1-fd24-40dd-a2d2-6e861b1d2bd1.png)
+![captures_chrome-capture-2022-9-14 (8)](https://user-images.githubusercontent.com/73020771/195820556-5ea20d0a-5397-4a7a-952c-c4b3f990aa9f.png)
 
 ## Added a Dependabot alerts in my github. ✔
-![captures_chrome-capture-2022-9-14 (7)](https://user-images.githubusercontent.com/73020771/195820588-3c855e3c-0c0f-4e87-87e0-2d59b1f37415.png)
 
 ## Stash changes ✔
 ![stash](https://user-images.githubusercontent.com/73020771/195822660-45a186a2-9de9-4062-a2a4-7073a6fe818c.png)
 
 ## Create a release your package ✔
-![captures_chrome-capture-2022-9-14 (8)](https://user-images.githubusercontent.com/73020771/195820556-5ea20d0a-5397-4a7a-952c-c4b3f990aa9f.png)
-
+![captures_chrome-capture-2022-9-14 (7)](https://user-images.githubusercontent.com/73020771/195820588-3c855e3c-0c0f-4e87-87e0-2d59b1f37415.png)
 
 ## Setting up a Projects Board for my project ✔
 ![captures_chrome-capture-2022-9-14 (9)](https://user-images.githubusercontent.com/73020771/195820522-016dca89-646b-4015-9ee6-9a8c7561dab1.png)
