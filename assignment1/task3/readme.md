@@ -1,6 +1,4 @@
 ##task3 starts
-![captures_chrome-capture-2022-9-14 (1)](https://user-images.githubusercontent.com/73020771/195820746-1012ec71-d449-42dc-89c7-638191519f19.png)
-![captures_chrome-capture-2022-9-14 (4)](https://user-images.githubusercontent.com/73020771/195820779-ee0fafdc-a19a-4433-86fc-0f7f6958638d.png)
 
 ## Created an Issue in my github repository. ✔
 ![captures_chrome-capture-2022-9-14 (2) (1)](https://user-images.githubusercontent.com/73020771/195822486-699f7305-c882-49a3-b2a5-a55169946885.png)
