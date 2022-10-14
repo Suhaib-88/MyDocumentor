@@ -7,6 +7,8 @@
 
 ## Raised a pull request. ✔
 ![captures_chrome-capture-2022-9-14 (3)](https://user-images.githubusercontent.com/73020771/195820669-e8436aa5-1126-4ccc-bc18-9f3265a74ae9.png)
+![captures_chrome-capture-2022-9-14 (5) (1)](https://user-images.githubusercontent.com/73020771/195821974-98fcc4fd-3eab-417b-9a66-46b27d64274f.png)
+
 
 ## Merge A pull request. ✔
 ![captures_chrome-capture-2022-9-14 (6)](https://user-images.githubusercontent.com/73020771/195820613-ac9ecafb-841a-4bd9-8e20-0775982addd8.png)
