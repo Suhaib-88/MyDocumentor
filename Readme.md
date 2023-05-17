@@ -24,7 +24,7 @@ This is a Streamlit app that allows users to chat with a PDF document using a co
 
 
 ### And terrible Joke telling Capabilities :(
-[TextGenerator](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17-3.png)
+[TextGenerator](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17-3.png?raw=true)
 
 ## Usage
 
