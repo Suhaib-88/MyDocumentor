@@ -16,7 +16,7 @@ This is a Streamlit app that allows users to chat with a PDF document using a co
 
 ### Text Summarization 
 
-![Summarize](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-1.png?raw=true)
+![Summarize](./Assests/captures_chrome-capture-2023-10-17-1.png?raw=true)
 
 
 ### Active Browsing and text generation
