@@ -11,20 +11,21 @@ This is a Streamlit app that allows users to chat with a PDF document using a co
 
 ### Questions & Answers
 
-[QnA](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17.png?raw=true)
+![QnA](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17.png?raw=true)
 
 
 ### Text Summarization 
 
-[Summarize](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-1.png?raw=true)
+![Summarize](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-1.png?raw=true)
 
 
 ### Active Browsing and text generation
-[Active-Browsing](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-2.png?raw=true)
+
+![Active-Browsing](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-2.png?raw=true)
 
 
 ### And terrible Joke telling Capabilities :(
-[TextGenerator](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-3.png?raw=true)
+![TextGenerator](https://github.com/Suhaib-88/MyDocumentor/blob/master/Assests/captures_chrome-capture-2023-10-17-3.png?raw=true)
 
 ## Usage
 
