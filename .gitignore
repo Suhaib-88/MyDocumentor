@@ -4,6 +4,5 @@
 /invoice.pdf
 /main.ipynb
 /prompts.md
-/.streamlit
-tempfolder/Update Document_ Emotion Recognition.pdf
+*.pdf
 main.py

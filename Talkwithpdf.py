@@ -1,8 +1,4 @@
 # Import Required Libraries
-__import__("pysqlite3")
-import sys
-
-sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 import os
 import streamlit as st
 from streamlit_chat import message
@@ -14,13 +10,6 @@ from langchain.embeddings import CohereEmbeddings
 from langchain.prompts import PromptTemplate
 from langchain.llms import Cohere
 from datetime import datetime
-
-
-# Setting Up API Tokens
-# Create .streamlit Folder in Root Directory
-# Create a File secrets.toml
-# TOML format
-# cohere_apikey="Enter you Key"
 
 
 # Setting Up Streamlit Page
@@ -59,8 +48,8 @@ def save_uploadedfile(uploadedfile):
 with st.sidebar:
     st.title("Upload PDF")
     st.write("For any Queries, please feel free to contact")
-    st.write("Email: [eswar.divi.902@gmail.com](mailto:eswar.divi.902@gmail.com)")
-    st.write("GitHub: [github.com/EswarDivi](https://github.com/EswarDivi)")
+    st.write("Email: [suhaibarshad2017@gmail.com](mailto:suhaibarshad2017@gmail.com)")
+    st.write("GitHub: [github.com/Suhaib-88](https://github.com/Suhaib-88)")
     uploaded_file = st.file_uploader("Choose a file", type=["pdf"])
     temp_r = st.slider("Temperature", 0.1, 0.9, 0.45, 0.1)
     chunksize = st.slider("Chunk Size for Splitting Document ", 256, 1024, 400, 10)
