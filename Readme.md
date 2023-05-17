@@ -11,20 +11,20 @@ This is a Streamlit app that allows users to chat with a PDF document using a co
 
 ### Questions & Answers
 
-[QnA](https://github.com/Suhaib-88/MyDocumentor.git/Assests/captures_chrome-capture-2023-10-17.png)
+[QnA](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17.png)
 
 
 ### Text Summarization 
 
-[Summarize](https://github.com/Suhaib-88/MyDocumentor.git/Assests/captures_chrome-capture-2023-10-17-1.png)
+[Summarize](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17-1.png)
 
 
 ### Active Browsing and text generation
-[Active-Browsing](https://github.com/Suhaib-88/MyDocumentor.git/Assests/captures_chrome-capture-2023-10-17-2.png)
+[Active-Browsing](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17-2.png)
 
 
 ### And terrible Joke telling Capabilities :(
-[TextGenerator](https://github.com/Suhaib-88/MyDocumentor.git/Assests/captures_chrome-capture-2023-10-17-3.png)
+[TextGenerator](https://github.com/Suhaib-88/MyDocumentor/tree/master/Assests/captures_chrome-capture-2023-10-17-3.png)
 
 ## Usage
 
