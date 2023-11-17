@@ -1,5 +1,6 @@
-![captures_chrome-capture-2023-10-17 (2)](https://github.com/Suhaib-88/MyDocumentor/assets/73020771/2e322354-eb5b-43c4-8839-ac404ca23b70)
 # MyDocumentor
+![captures_chrome-capture-2023-10-17 (4)](https://github.com/Suhaib-88/MyDocumentor/assets/73020771/5be9cabb-335c-4bba-bfe4-df615ce81746)
+
 
 ## Conversational AI Chatbot - Interact with Documents like never before
 
