@@ -2,7 +2,7 @@ chromadb
 langchain
 unstructured
 unstructured[local-inference]
-streamlit==1.24.0
+streamlit==1.30.0
 streamlit-chat
 cohere
 altair==4.0
